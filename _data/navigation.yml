@@ -8,11 +8,11 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
- - title: "Honors"
-   url: /#honors    
+#  - title: "Honors"
+#    url: /#honors    
     
- - title: "Teaching and Services"
-   url: /about/#teaching_services
+#  - title: "Teaching and Services"
+#    url: /about/#teaching_services
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
