@@ -11,7 +11,7 @@ author_profile: true
 ***F Khani**, MT Ribeiro*\
 preprint, 2023\
 [[slides](\assets\posters_and_slides\unanimous_poster_ACL2016.pdf)]
-[[twitter thread](https://twitter.com/fereshte_khani/status/1661883898278854656)]
+[[twitter summary](https://twitter.com/fereshte_khani/status/1661883898278854656)]
 
 **[Targeted Data Generation: Finding and Fixing Model Weaknesses](https://arxiv.org/pdf/2305.17804.pdf)**\
 *Z He, MT Ribeiro, **F Khani***\
@@ -21,7 +21,7 @@ Association for Computational Linguistics (ACL), 2023
 *S Asgari, A Khani, **F Khani**, A Gholami, L Tran, A Mahdavi Amiri, G Hamarneh*\
 Advances in Neural Information Processing Systems (Neurips), 2022\
 [[code and data](https://github.com/aliasgharkhani/Masktune)]
-[[twitter thread](https://twitter.com/fereshte_khani/status/1591647869043605504?lang=en)]
+[[twitter summary](https://twitter.com/fereshte_khani/status/1591647869043605504?lang=en)]
 
 **[On the opportunities and risks of foundation models](https://arxiv.org/abs/2108.07258)**\
 *R Bommasani, ... , **F Khani**, ..., P Liang*\
@@ -33,13 +33,13 @@ ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2021\
 [[code and data](https://worksheets.codalab.org/worksheets/0x6d343ebeabd14571a9549fbf68fd28a4)]
 [[video](https://www.youtube.com/watch?v=mgVgIGLPmg0&ab_channel=ACMFAccTConference)]
 [[blog post](https://ai.stanford.edu/blog/removing-spuriousfeature/)]
-[[twitter thread](https://twitter.com/fereshte_khani/status/1354878906424193025)]
+[[twitter summary](https://twitter.com/fereshte_khani/status/1354878906424193025)]
 
 **[In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://arxiv.org/pdf/2012.04550.pdf)**\
 *SM Xie, A Kumar, R Jones, **F Khani**, T Ma, P Liang*\
 International Conference on Learning Representations (ICLR), 2021\
 [[code and data](https://github.com/p-lambda/in-n-out)]
-[[twitter thread](https://twitter.com/sangmichaelxie/status/1340034909088456705)]
+[[twitter summary](https://twitter.com/sangmichaelxie/status/1340034909088456705)]
 
 **[Feature Noise Induces Loss Discrepancy Across Groups](https://arxiv.org/pdf/1911.09876.pdf)**\
 ***F Khani**, P Liang*\
@@ -68,3 +68,11 @@ Association for Computational Linguistics (ACL), 2016\
 **[An algorithm for discovering clusters of different densities or shapes in noisy data sets](https://dl.acm.org/doi/10.1145/2480362.2480392)**\
 ***F Khani**, MJ Hosseini, AA Abin, H Beigy*\
 Proceedings of the 28th Annual ACM Symposium on Applied Computing, 2013
+
+## thesis
+
+**[Learning precise partial semantic mappings via linear algebra](https://dspace.mit.edu/bitstream/handle/1721.1/106099/965386321-MIT.pdf?sequence=1&isAllowed=y)**\
+Master thesis, Massachusetts Institute of Technlogoy
+
+**[Causes, Measurement, and Mitigation of Loss Discrepancy](https://stacks.stanford.edu/file/druid:gw991vt5365/thesis_final-augmented.pdf)**\
+Ph.D. thesis, Stanford University
