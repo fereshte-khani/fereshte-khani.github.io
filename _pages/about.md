@@ -13,15 +13,17 @@ I am a Senior Applied Scientist in the Office of Applied Research at Microsoft. 
 ## <a name="research"></a>Research
 
 **Alignment.**
-Alignment is ensuring machine learning models conform to human values and intentions, a critical process as misaligned AI could potentially cause harm or undesirable outcomes. 
+Alignment is ensuring machine learning models conform to human values and intentions.
 My [previous work](https://arxiv.org/pdf/2305.12219.pdf) focuses on collaborative alignment, where multiple individuals engage with the model and each other to align the model to their preference without interferring other users.
-I envision a future where NLP models are developed in a collaborative fashion, similar to open source software or Wikipedia, and speculate that harnessing the perspectives and expertise of a large and diverse set of users would lead to better models, both in terms of overall quality and in various fairness dimensions. 
-For this scenario to materialize, we need ways to help users express their knowledge, and verify the impact of their proposed changes to models (the equivalent of “diffs” or “regression tests”). 
-I believe [CoDev](https://arxiv.org/pdf/2305.12219.pdf) is a small step in this direction.
+I envision a future where NLP models are developed in a collaborative fashion, similar to open source software or Wikipedia, benefiting from diverse user inputs for improved quality and fairness. 
+For this scenario to materialize, we need to help users to convey knowledge, and verify the impact of their proposed changes to models, similar to “diffs” or “regression tests”. 
+[CoDev](https://arxiv.org/pdf/2305.12219.pdf) is a small step in this direction.
+In [TACL2018](https://arxiv.org/pdf/1805.11774.pdf), we showed how human use pragmatics, planning, and inference in dialogue to convey information. 
 
 
 **Robustness.** One main concern about utilizing ML models in the real world is their poor performance in new domains, even when the new domain is slightly different from the training domain. 
 In my previous work, we have shown how to leverage unlabeled data through pretraining and finetuning to achieve better performance in a new domain ([ICLR2021](https://arxiv.org/pdf/2012.04550v3.pdf "ICLR2021")); and how to use unlabeled data to make a model robust against spurious features ([FAccT2021](https://arxiv.org/pdf/2012.04104v1.pdf "FAccT2021")).
+In [ACL2023](https://arxiv.org/pdf/2305.17804.pdf), we showed how to use LLMs as a large pool of unlabeled data to augment groups that the model has low performance on.
 
 **Reliability.** How can we have a reliable model that knows when it does not know? I am interested in selective classification where a model can abstain if it cannot provide a true prediction with high probability. 
 Previously, I proposed a model that only predicts if all models consistent with training data unanimously agree, resulting in 100% precision ([ACL2016](https://arxiv.org/pdf/1606.06368.pdf "ACL2016")).
