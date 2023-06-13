@@ -69,7 +69,7 @@ Association for Computational Linguistics (ACL), 2016\
 ***F Khani**, MJ Hosseini, AA Abin, H Beigy*\
 Proceedings of the 28th Annual ACM Symposium on Applied Computing, 2013
 
-## thesis
+## Theses
 
 **[Learning precise partial semantic mappings via linear algebra](https://dspace.mit.edu/bitstream/handle/1721.1/106099/965386321-MIT.pdf?sequence=1&isAllowed=y)**\
 Master thesis, Massachusetts Institute of Technlogoy
