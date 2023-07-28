@@ -10,7 +10,7 @@ author_profile: true
 **[Collaborative Development of NLP Models](https://arxiv.org/pdf/2305.12219.pdf)**\
 ***F Khani**, MT Ribeiro*\
 preprint, 2023\
-[[slides](\assets\posters_and_slides\unanimous_poster_ACL2016.pdf)]
+[[slides](\assets\posters_and_slides\ICLR2023_trustworthy_workshop_codev.pdf)]
 [[twitter summary](https://twitter.com/fereshte_khani/status/1661883898278854656)]
 
 **[Targeted Data Generation: Finding and Fixing Model Weaknesses](https://arxiv.org/pdf/2305.17804.pdf)**\
@@ -18,7 +18,7 @@ preprint, 2023\
 Association for Computational Linguistics (ACL), 2023
 
 **[Masktune: Mitigating spurious correlations by forcing to explore](https://arxiv.org/pdf/2210.00055.pdf)** \
-*S Asgari, A Khani, **F Khani**, A Gholami, L Tran, A Mahdavi Amiri, G Hamarneh*\
+*S Asgari\*, A Khani\*, **F Khani\***, A Gholami, L Tran, A Mahdavi Amiri, G Hamarneh*\
 Advances in Neural Information Processing Systems (Neurips), 2022\
 [[code and data](https://github.com/aliasgharkhani/Masktune)]
 [[twitter summary](https://twitter.com/fereshte_khani/status/1591647869043605504?lang=en)]
