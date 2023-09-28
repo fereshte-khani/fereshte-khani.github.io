@@ -44,7 +44,7 @@ Previously I have shown unexpected reasons that cause ML models to exhibit discr
 
 ## <a name="teaching_services"></a>Teaching and Services
 
-- Teaching Assistant for Machine Learning, Stanford, Summer 2020, Fall 2020 <font size="2">[[review of linear algebra]](https://cs229.stanford.edu/livenotes2020spring/linearalgebra-slides.pdf)[[probability theory review]](https://cs229.stanford.edu/section/cs229_spring2020_prob_review_slides.pdf)</font>
+- Teaching Assistant for Machine Learning, Stanford, Summer 2020, Fall 2020 [[review of linear algebra]](https://cs229.stanford.edu/livenotes2020spring/linearalgebra-slides.pdf)[[probability theory review]](https://cs229.stanford.edu/section/cs229_spring2020_prob_review_slides.pdf)
 - Teaching Assistant for Data Structure (2011), Artificial Intelligence (2011), and Design of Algorithm (2012), Sharif University of Technology.
 - Lecturer in Summer Math Camp , Farzanegan Highschool, 2007 - 2013
 - Teaching students for Iranian National Olympiad in Informatics (INOI), 2009 - 2011
