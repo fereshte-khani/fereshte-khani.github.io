@@ -14,7 +14,7 @@ I am a Senior Applied Scientist in the Office of Applied Research at Microsoft. 
 
 **Alignment.**
 Alignment is ensuring machine learning models conform to human values and intentions.
-My [previous work](https://arxiv.org/pdf/2305.12219.pdf) focuses on collaborative alignment, where multiple individuals engage with the model and each other to align the model to their preference without interferring other users.
+My work ([NeurIPS2023](https://arxiv.org/pdf/2305.12219.pdf)) focuses on collaborative alignment, where multiple individuals engage with the model and each other to align the model to their preference without interferring other users.
 I envision a future where NLP models are developed in a collaborative fashion, similar to open source software or Wikipedia, benefiting from diverse user inputs for improved quality and fairness. 
 For this scenario to materialize, we need to help users to convey knowledge, and verify the impact of their proposed changes to models, similar to “diffs” or “regression tests”. 
 [CoDev](https://arxiv.org/pdf/2305.12219.pdf) is a small step in this direction.
@@ -33,9 +33,9 @@ However, as models become more complicated we cannot do the unanimous agreement 
 **Fairness.** ML Models can lead to discrimination, and in light of their increasing prevalence, it is necessary to address this problem (see this [post](https://fereshte-khani.github.io/dml.html)). In my research I try to understand how we can investigate and mitigate discrimination of ML models, and how to study the feedback loops created by ML models. 
 Previously I have shown unexpected reasons that cause ML models to exhibit discrimination. For example, adding the same amount of feature noise to all individuals ([ICML2020](https://arxiv.org/pdf/1911.09876.pdf "ICML2020"), [blog post](https://ai.stanford.edu/blog/Bluepeoplevs.Neycity/ "blog post")), or the inductive bias in overparameterized regimes ([FAccT2021](https://arxiv.org/pdf/2012.04104v1.pdf "FAccT2021"), [blog post](https://ai.stanford.edu/blog/removing-spuriousfeature/ "blog post")) can lead to discrimination. In addition, in scenarios when protected groups are not known a priori, or there is an exponential number of such groups, I showed that what kind of statistical measure is possible to measure loss discrepancy among groups ([SafeML,ICLR2019](https://arxiv.org/pdf/1906.03518.pdf)).
 
-## <a name="honors"></a>Honors
+## <a name="honors"></a>Honors and Awards
 
-- Enhancing Diversity in Graduate Education (EDGE) Doctoral Fellowship, 2016-2022.
+- EDGE Doctoral Fellowship, 2016-2022.
 - Ranked 3rd in the Asia Regional ACM-ICPC Contest, Iran, 2010.
 - Silver Medal in International Olympiad in Informatics (IOI) 2009, Plovdiv, Bulgaria.
 - Selected as a national scientific elite and the recipient of the grant from the Iranian National Elites Foundation 2009 - 2013.
