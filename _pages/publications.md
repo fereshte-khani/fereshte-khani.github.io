@@ -9,9 +9,10 @@ author_profile: true
 
 **[Collaborative Development of NLP Models](https://arxiv.org/pdf/2305.12219.pdf)**\
 ***F Khani**, MT Ribeiro*\
-preprint, 2023\
+Advances in Neural Information Processing Systems (Neurips), 2023\
 [[slides](\assets\posters_and_slides\ICLR2023_trustworthy_workshop_codev.pdf)]
 [[twitter summary](https://twitter.com/fereshte_khani/status/1661883898278854656)]
+[[blog]((https://medium.com/@fereshtekhani/collaborative-development-of-nlp-models-e2b0a8a2b0f))]
 
 **[Targeted Data Generation: Finding and Fixing Model Weaknesses](https://arxiv.org/pdf/2305.17804.pdf)**\
 *Z He, MT Ribeiro, **F Khani***\
