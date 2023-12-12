@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Applied Scientist in the Office of Applied Research at Microsoft. Before joining Microsoft, I got my Ph.D. at Stanford under supervision of [Percy Liang](https://cs.stanford.edu/~pliang/) and my M.S. at MIT under supervision of [Martin Rinard](https://people.csail.mit.edu/rinard/).
+I am a Researcher at OpenAI. Before joining OpenAI, I was at [Microsoft](https://www.microsoft.com/en-us/research/group/office-of-applied-research/) and before that I got my Ph.D. at Stanford under supervision of [Percy Liang](https://cs.stanford.edu/~pliang/) and my M.S. at MIT under supervision of [Martin Rinard](https://people.csail.mit.edu/rinard/).
 
 ## <a name="research"></a>Research
 
